@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    padding: 10px 0px;
+    box-sizing: border-box;
+    column-gap: 10px;
+}
